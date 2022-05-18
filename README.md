@@ -17,7 +17,7 @@ by the type (BSc/MSc thesis, GR, IDP).
 
 Steps to add your research work to the archive:
 
-1. Select the appropriate year and semester folder
+1. Select the appropriate year and semester folder -- __Based on the submission date__
 2. Add your final presentation to the `talks` folder
 3. Add your final report or your final thesis to the `docs` folder
 4. Include your research work in the `README.md` in the year folder
