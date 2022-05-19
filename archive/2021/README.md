@@ -18,4 +18,6 @@
 | Vincent Picking | [Shared Log with Persistent Memory and eRPC](winter/docs/bsc_picking_shared_log_with_persistent_memory_and_erpc.pdf) | BA | Dimitra Giantsidi | |
 | Merlin Mehmed | [Migration of Artemis’ Architecture from Monolithic to Microservices](winter/docs/msc_mehmed_migration_of_artemis_architecture_from_monolithic_to_microservices.pdf) | MA | Evgeny Volynsky, Stephan Krusche | |
 | Peter Okelmann | [Methods and Technologies for Building Lightweight VMs for Function as a Service](winter/docs/msc_okelmann_methods_and_technologies_for_building_lightweight_vms_for_function_as_a_service.pdf) | MA | Jörg Thalheim | |
+| Alexandrina Panfil | [Memory Safety for Persistent Memory: Safe Persistent Pointers](winter/docs/bsc_panfil_memory_safety_for_persistent_memory_safe_persistent_pointers.pdf) | BA | Dimitrios Stavrakakis, Myoung Jin Nam | |
+
 
