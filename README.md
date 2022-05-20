@@ -22,6 +22,15 @@ Steps to add your research work to the archive:
 3. Add your final report or your final thesis to the `docs` folder
 4. Include your research work in the `README.md` in the year folder
 
+## Hints on year and semester folders
+
+If the research work was submitted between 1st of April and the last day of
+September, it was a summer semester. Else a winter semester. If the work was
+submitted in winter semester, please put it in the year folder belonging to the
+start of the winter semester, i.e., if the wintersemester is 22/23 please put
+it into 2022 (even if the work was submitted in the first three months of
+2023). Thanks!
+
 ## Format
 
 Please follow this format for your file names:
