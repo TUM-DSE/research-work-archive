@@ -15,7 +15,7 @@
 |---------------|-------|------|----------|---------|
 | Eduard von Briesen | [λ-Cntr: A Dependable Serverless Architecture](winter/docs/bsc_briesen_lambda_cntr_a_dependable_serverless_architecture.pdf) | BA | Jörg Thalheim | |
 | Martin Fink | [Translating x86 Binaries to LLVM Intermediate Representation](winter/docs/bsc_fink_translating_x86_binaries_into_llvm_intermediate_representation.pdf) | BA | Rodrigo Rocha, Redha Gouicem | |
-| Paul Heidekrüger | [Dependency Ordering in the Linux Kernel](winter/docs/bsc_heidekrueger_dependency_ordering_in_the_linux_kernel.pdf) | BA | Pramod Bhatotia, Marco Elver (Goole), Charalampos Mainas | |
+| Paul Heidekrüger | [Dependency Ordering in the Linux Kernel](winter/docs/bsc_heidekrueger_dependency_ordering_in_the_linux_kernel.pdf) | BA | Pramod Bhatotia, Marco Elver (Google), Charalampos Mainas | |
 | Vincent Picking | [Shared Log with Persistent Memory and eRPC](winter/docs/bsc_picking_shared_log_with_persistent_memory_and_erpc.pdf) | BA | Dimitra Giantsidi | |
 | Merlin Mehmed | [Migration of Artemis’ Architecture from Monolithic to Microservices](winter/docs/msc_mehmed_migration_of_artemis_architecture_from_monolithic_to_microservices.pdf) | MA | Evgeny Volynsky, Stephan Krusche | |
 | Peter Okelmann | [Methods and Technologies for Building Lightweight VMs for Function as a Service](winter/docs/msc_okelmann_methods_and_technologies_for_building_lightweight_vms_for_function_as_a_service.pdf) | MA | Jörg Thalheim | |
