@@ -27,7 +27,7 @@ Steps to add your research work to the archive:
 If the research work was submitted between 1st of April and the last day of
 September, it was a summer semester. Else a winter semester. If the work was
 submitted in winter semester, please put it in the year folder belonging to the
-start of the winter semester, i.e., if the wintersemester is 22/23 please put
+start of the winter semester, i.e., if the winter semester is 22/23 please put
 it into 2022 (even if the work was submitted in the first three months of
 2023). Thanks!
 
