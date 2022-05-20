@@ -8,6 +8,3 @@
 
 ## Winter semester
 
-| Student       | Title | Type | Advisors |     Report/Thesis   |    Presentation    |
-|---------------|-------|------|----------|---------|---------|
-| Jasper Rühl | Native emulation of the cmpxchg instruction on ARM by QEMU | GR | Redha Gouicem | [PDF](winter/docs/gr_ruehl_native_emulation_of_the_cmpxchg_instruction_on_arm_by_qemu.pdf)  ||
