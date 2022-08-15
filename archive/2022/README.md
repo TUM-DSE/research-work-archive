@@ -8,6 +8,6 @@
 | Paul Heidekrüger | Dependency Ordering in the Linux Kernel (continued) | GR | Pramod Bhatotia, Marco Elver (Google), Charalampos Mainas | [PDF](summer/docs/gr_heidekrueger_do_it_lk.pdf) | |
 | Sumit Bhirud | Frontend Development of Edge-based Monitoring Systems for Additive Manufacturing | MA   | Philip Howell | [PDF](summer/docs/msc_bhirud_frontend_development_of_edge_based_monitoring_systems_for_additive_manufacturing.pdf) | [PDF](summer/talks/msc_bhirud_frontend_development_of_edge_based_monitoring_systems_for_additive_manufacturing.pdf) |
 | Maximilian Wiesholler | Distributed Indexing for Dynamic Scaling in Stateful Serverless Computing with Shared Logs | MA | Florin Dinu | [PDF](summer/docs/msc_wiesholler_distributed_indexing_for_dynamic_scaling_in_stateful_serverless_computing_with_shared_logs.pdf) | [PDF](summer/talks/msc_wiesholler_distributed_indexing_for_dynamic_scaling_in_stateful_serverless_computing_with_shared_logs.pdf) |
-
+| Nathaniel Tornow | DQS: A Framework for Efficient Distributed Simulation of Large Quantum Circuits | BA | Emmanouil Giortamis, Pramod Bhatotia | [PDF](summer/docs/bsc_tornow_dqs_a_framework_for_efficient_distributed_simulation_of_large_quantum_circuits.pdf) | |
 ## Winter semester
 
