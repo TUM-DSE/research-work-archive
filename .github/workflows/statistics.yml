@@ -32,7 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Commit new statistics
         run: |
-          if ! diff-index --quiet HEAD; then
+          if ! git diff-index --quiet HEAD; then
             git config --global user.name 'TUM-DSE'
             git config --global user.email 'tum-dse@example.com'
             git commit -am "[Github Actions] Update statistics"
