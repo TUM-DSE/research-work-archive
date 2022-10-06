@@ -21,6 +21,9 @@ Steps to add your research work to the archive:
 2. Add your final presentation to the `talks` folder
 3. Add your final report or your final thesis to the `docs` folder
 4. Include your research work in the `README.md` in the year folder
+5. Submit a pull request. __Please contain all modifications (report/slide/README) in one pull request!__
+
+You do not need to update statistics.md. It will be automatically updated.
 
 ## Hints on year and semester folders
 
