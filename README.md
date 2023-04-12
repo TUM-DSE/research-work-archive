@@ -3,7 +3,7 @@
 This repository contains reports, theses and final presentations for BSc/MSc
 theses, guided research (GR) and interdisciplinary projects (IDP) at [our
 chair](https://dse.in.tum.de/). For open topics take a look at [our chair's
-website](https://dse.in.tum.de/theses/).
+website](https://dse.in.tum.de/thesis/).
 
 ## Submission
 
