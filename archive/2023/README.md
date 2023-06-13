@@ -1,0 +1,7 @@
+# Research work in 2023
+
+## Summer semester
+
+| Student                | Title                                                                                                                         | Type | Advisors                                                  | Report/Thesis                                                                                                                                                   | Presentation                                                                                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tatia Tibunashvili          |Design and Development of a Synchronized Database for Launch Control System | MA   | Julian Petrasch  | [PDF](summer/docs/msc_tibunashvili_design_and_development_of_a_synchronized_database_for_launch_control_system.pdf)                                  | [PDF](summer/talks/msc_tibunashvili_design_and_development_of_a_synchronized_database_for_launch_control_system.pdf)      |
