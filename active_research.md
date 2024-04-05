@@ -3,11 +3,11 @@
 
 **IMPORTANT**: Students/Advisors must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
 
-**Type of research work** 
+**Type of research work:** 
   - BA: BSc thesis
   - MA: MSc thesis
   - GR: Guided Research
-  - IDP: Interdisciplinary project
+  - IDP: Interdisciplinary Project
 
 **NOTE**: Keep the table sorted based on the end date, i.e., earliest end dates at the top.
 
