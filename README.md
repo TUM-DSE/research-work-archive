@@ -5,7 +5,7 @@ theses, guided research (GR) and interdisciplinary projects (IDP) at [our
 chair](https://dse.in.tum.de/). For open topics take a look at [our chair's
 website](https://dse.in.tum.de/thesis/).
 
-[Active research work](./active_theses.md)
+[Active research work](./active_research.md)
 
 Archives:
 - [2023](./archive/2023/README.md)
@@ -15,7 +15,7 @@ Archives:
 
 ## Before the thesis
 
-The student or the advisor(s) should update the active thesis [list](./active_theses.md) with the subject and the tentative or definitive dates
+The student or the advisor(s) should update the active research [list](./active_research.md) with the subject and the tentative or definitive dates
 
 ## After the thesis
 
