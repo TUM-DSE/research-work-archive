@@ -5,16 +5,22 @@ theses, guided research (GR) and interdisciplinary projects (IDP) at [our
 chair](https://dse.in.tum.de/). For open topics take a look at [our chair's
 website](https://dse.in.tum.de/thesis/).
 
+The list of current theses at the chair can be found [here](./active-theses.md)
+
 - [2023](./archive/2023/README.md)
 - [2022](./archive/2022/README.md)
 - [2021](./archive/2021/README.md)
 - [Statistics](./statistics.md)
 
+## Before and during the thesis
+
+The student or the advisor(s) should update the active thesis [list](./active-theses.md) with the subject and the tentative or definitive dates
+
 ## Submission
 
 Once you are done with your research work at our chair, please submit a pull
 request to add your GR/IDP report, your BSc/MSc thesis or your final
-presentation to this archive.
+presentation to this archive. Please also remove the thesis from the list of active theses.
 
 We follow a strict naming convention for systematic archival of the documents.
 We collect the documents in year- and semester-wise folders, and classify them
