@@ -1,9 +1,9 @@
 # Active research work at the chair
 
 
-** IMPORTANT NOTE **: The students must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
+**IMPORTANT NOTE**: The students must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
 
-** Code ** 
+**Code** 
   - BA: BSc thesis
   - MA: MSc thesis
   - GR: Guided Research
