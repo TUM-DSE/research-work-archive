@@ -14,11 +14,11 @@ Archives:
 - [2021](./archive/2021/README.md)
 - [Statistics](./statistics.md)
 
-## Before the thesis
+## Before starting your research work
 
-The student or the advisor(s) should update the active research [list](./active_research.md) with the subject and the tentative or definitive dates
+The student or the advisor(s) should update the active research [list](./active_research.md) with the subject and the start and end dates.
 
-## After the thesis
+## After finishing your research work
 
 Once you are done with your research work at our chair, please submit a pull
 request to add your GR/IDP report, your BSc/MSc thesis or your final
