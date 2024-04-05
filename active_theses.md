@@ -1,4 +1,4 @@
-# Current theses at the chair
+# Active research work (BA/MA/GR/IDP) at the chair
 
 | Student            | Title                                                                                 | Type | Advisors          | Dates |
 | ------------------ | ------------------------------------------------------------------------------------- | ---- | ----------------- | --------------- |
