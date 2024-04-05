@@ -12,11 +12,11 @@ The list of current theses at the chair can be found [here](./active-theses.md)
 - [2021](./archive/2021/README.md)
 - [Statistics](./statistics.md)
 
-## Before and during the thesis
+## Before the thesis
 
 The student or the advisor(s) should update the active thesis [list](./active-theses.md) with the subject and the tentative or definitive dates
 
-## Submission
+## After the thesis
 
 Once you are done with your research work at our chair, please submit a pull
 request to add your GR/IDP report, your BSc/MSc thesis or your final
