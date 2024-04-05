@@ -1,7 +1,7 @@
 # Active research work at the chair
 
 
-**IMPORTANT**: The students/advisors must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
+**IMPORTANT**: Students/Advisor must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
 
 **Type of research work** 
   - BA: BSc thesis
