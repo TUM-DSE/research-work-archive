@@ -10,7 +10,7 @@
   - IDP: Interdisciplinary work
 
 
-**NOTE**: Keep the table sorted based on the end date, i.e., the earliest end date should be the top row in the table.
+**NOTE**: Keep the table sorted based on the end date, i.e., earliest end dates at the top.
 
 | Student            | Title                                                                                 | Type | Advisors          | Start date |  End date |
 | ------------------ | ------------------------------------------------------------------------------------- | ---- | ----------------- | --------------- |--------------- |
