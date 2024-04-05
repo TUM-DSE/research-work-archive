@@ -3,7 +3,7 @@
 
 **IMPORTANT NOTE**: The students must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
 
-**Code** 
+**Type of research work** 
   - BA: BSc thesis
   - MA: MSc thesis
   - GR: Guided Research
