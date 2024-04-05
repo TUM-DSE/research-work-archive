@@ -7,7 +7,7 @@
   - BA: BSc thesis
   - MA: MSc thesis
   - GR: Guided Research
-  - IDP: Interdisciplinary work
+  - IDP: Interdisciplinary project
 
 **NOTE**: Keep the table sorted based on the end date, i.e., earliest end dates at the top.
 
