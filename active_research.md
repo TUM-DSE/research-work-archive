@@ -21,3 +21,4 @@
 | Christian Sandu  | Hardware assisted memory safety for databases                               | MA   | Ilya Meignan--Masson                     | 15.03.2024 | 15.09.2024 |
 | Milen Vitanov    | Serverless Data-Processing in Unikernels using eBPF                         | MA   | Masanori Misono, Ilya Meignan--Masson    | 15.05.2024 | 15.11.2024 |
 | Wonkeun Choi (Anders) | MLIR Quantum Dialect for Superconducting Technology                        | GR   | Francisco Romão    | 15.04.2024 | 15.09.2024 |
+| Simon Dittrich   | Automated Simulation of Hierarchical Cache Coherence for CXL                | MA   | Anatole Lefort                           | 15.03.2024 | 15.09.2024 |
