@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                               | Type | Advisors                                 | Start date | End date   |
 |-----------------------|-------------------------------------------------------------------------------------|------|------------------------------------------|------------|------------|
-| Moritz Beckel         | Analysis of a secure, performant Confidential Virtual Machine Storage Stack         | BA   | (Robert Schambach), Masanori Misono      | 15.12.2023 | 15.04.2024 |
 | Nicola Crivellin      | Execution State Comparison for Emulators using Symbolic Execution                   | MA   | (Theofilos Augoustis), Sebastian Reimers | 15.11.2023 | 15.05.2024 |
 | Martin Lamback        | Utilizing dynamic partial reconfiguration in an FPGA-accelerated FaaS architecture  | MA   | Charalampos Mainas, Atsushi Koshiba      | 15.01.2024 | 15.07.2024 |
 | Christian Sandu       | Hardware assisted memory safety for databases                                       | MA   | Ilya Meignan--Masson                     | 15.03.2024 | 15.09.2024 |
