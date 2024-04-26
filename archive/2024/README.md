@@ -5,6 +5,7 @@
 | Student     | Title                                           | Type | Advisors              | Report/Thesis                                             | Presentation                                               |
 |-------------|-------------------------------------------------|------|-----------------------|-----------------------------------------------------------|------------------------------------------------------------|
 | Martin Fink | Hardware-Assisted Memory Safety for WebAssembly | MA   | Dimitrios Stavrakakis | [PDF](summer/docs/msc_martin_fink_wasm_memory_safety.pdf) | [PDF](summer/talks/msc_martin_fink_wasm_memory_safety.pdf) |
+| Jalil David Salamé Messina |Towards running legacy applications inside AWS Nitro Type Enclaves | BA   | Le Qouc Do | [PDF](summer/docs/bsc_salame_towards_running_legacy_applications_inside_aws_nitro_type_enclaves.pdf)                                    | [PDF](summer/talk/bsc_salame_towards_running_legacy_applications_inside_aws_nitro_type_enclaves.pdf) |
 
 ## Winter semester
 
