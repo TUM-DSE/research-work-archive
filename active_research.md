@@ -20,7 +20,7 @@
 | Wonkeun Choi (Anders) | MLIR Quantum Dialect for Superconducting Technology                                 | GR   | Francisco Romão                          | 15.04.2024 | 15.09.2024 |
 | Francisco Kusch       | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing     | BA   | Nathaniel Tornow, Oğuzcan Kırmemiş       | 28.05.2024 | 28.09.2024 |
 | Paul Zhang            | Network Function Virtualization in Unikernels using eBPF                            | BA   | Masanori Misono, Ilya Meignan--Masson    | 01.06.2024 | 01.10.2024 |
-| Luca Mathias          | Analysis and Optimization of Network Stack of Confidential Virtual Machines         | BA   | Masanori Misono                          | 15.06.2024 | 15.10.2024 |
+| Luca Mathias          | Analysis and Optimization of I/O Stack of Confidential Virtual Machines             | BA   | Masanori Misono                          | 17.06.2024 | 17.10.2024 |
 | Milen Vitanov         | Serverless Data-Processing in Unikernels using eBPF                                 | MA   | Masanori Misono, Ilya Meignan--Masson    | 01.06.2024 | 01.12.2024 |
 | Michael Hackl         | TBD                                                                                 | MA   | Patrick Sabanic                          | 15.07.2024 | 01.01.2025 |
 
