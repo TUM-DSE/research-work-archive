@@ -3,7 +3,7 @@
 
 **IMPORTANT**: Students/Advisors must keep the page up-to-date, i.e., they should add an entry before finalizing the registration process and delete the entry after finalizing their research work.
 
-**Type of research work:** 
+**Type of research work:**
   - BA: BSc thesis
   - MA: MSc thesis
   - GR: Guided Research
@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                               | Type | Advisors                                 | Start date | End date   |
 |-----------------------|-------------------------------------------------------------------------------------|------|------------------------------------------|------------|------------|
-| Nicola Crivellin      | Execution State Comparison for Emulators using Symbolic Execution                   | MA   | (Theofilos Augoustis), Sebastian Reimers | 15.11.2023 | 15.05.2024 |
 | Martin Lamback        | Utilizing dynamic partial reconfiguration in an FPGA-accelerated FaaS architecture  | MA   | Charalampos Mainas, Atsushi Koshiba      | 15.07.2023 | 15.07.2024 |
 | Christian Sandu       | Hardware assisted memory safety for databases                                       | MA   | Ilya Meignan--Masson                     | 15.03.2024 | 15.09.2024 |
 | Simon Dittrich        | Automated Simulation of Hierarchical Cache Coherence for CXL                        | MA   | Anatole Lefort                           | 15.03.2024 | 15.09.2024 |
