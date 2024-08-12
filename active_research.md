@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                               | Type | Advisors                                 | Start date | End date   |
 |-----------------------|-------------------------------------------------------------------------------------|------|------------------------------------------|------------|------------|
-| Martin Lamback        | Utilizing dynamic partial reconfiguration in an FPGA-accelerated FaaS architecture  | MA   | Charalampos Mainas, Atsushi Koshiba      | 15.07.2023 | 15.07.2024 |
 | Christian Sandu       | Hardware assisted memory safety for databases                                       | MA   | Ilya Meignan--Masson                     | 15.03.2024 | 15.09.2024 |
 | Simon Dittrich        | Automated Simulation of Hierarchical Cache Coherence for CXL                        | MA   | Anatole Lefort                           | 15.03.2024 | 15.09.2024 |
 | Wonkeun Choi (Anders) | MLIR Quantum Dialect for Superconducting Technology                                 | GR   | Francisco Romão                          | 15.04.2024 | 15.09.2024 |
