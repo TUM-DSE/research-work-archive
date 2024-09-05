@@ -21,6 +21,6 @@
 | Cristian Sandu        | Hardware assisted memory safety for databases                                           | MA   | Ilya Meignan--Masson                     | 15.03.2024 | 28.10.2024 |
 | Milen Vitanov         | Serverless Data-Processing in Unikernels using eBPF                                     | MA   | Masanori Misono, Ilya Meignan--Masson    | 01.06.2024 | 01.12.2024 |
 | Marcin Praski         | Real-time & parallel task scheduling for Quantum Computing                              | MA   | Emmanouil Giortamis                      | 15.06.2024 | 15.12.2024 |
-| Michael Hackl         | TBD                                                                                     | MA   | Patrick Sabanic                          | 15.07.2024 | 01.01.2025 |
+| Michael Hackl         | Library OS for Confidential Virtual Machines                                            | MA   | Patrick Sabanic                          | 15.07.2024 | 01.01.2025 |
 | Lan Ouyang            | Securing Databases Data Structures: Exploring CHERI for Memory Safety and Bug Detection | MA   | Martin Fink, Ilya Meignan--Masson        | 07.08.2024 | 07.02.2025 |
 
