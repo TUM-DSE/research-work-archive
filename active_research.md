@@ -14,7 +14,6 @@
 | Student               | Title                                                                                   | Type | Advisors                                 | Start date | End date   |
 |-----------------------|-----------------------------------------------------------------------------------------|------|------------------------------------------|------------|------------|
 | Simon Dittrich        | Automated Simulation of Hierarchical Cache Coherence for CXL                            | MA   | Anatole Lefort                           | 15.03.2024 | 15.09.2024 |
-| Wonkeun Choi (Anders) | MLIR Quantum Dialect for Superconducting Technology                                     | GR   | Francisco Romão                          | 15.04.2024 | 15.09.2024 |
 | Francisco Kusch       | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing         | BA   | Nathaniel Tornow, Oğuzcan Kırmemiş       | 28.05.2024 | 28.09.2024 |
 | Paul Zhang            | Network Function Virtualization in Unikernels using eBPF                                | BA   | Masanori Misono, Ilya Meignan--Masson    | 01.06.2024 | 01.10.2024 |
 | Luca Mathias          | Analysis and Optimization of I/O Stack of Confidential Virtual Machines                 | BA   | Masanori Misono                          | 17.06.2024 | 17.10.2024 |
