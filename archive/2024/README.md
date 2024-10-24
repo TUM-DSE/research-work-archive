@@ -12,7 +12,7 @@
 | Julian Kraus, Aleksandra Topalova | An investigation of AI methods for the facilitation of injury diagnosis and treatments | BA   | Bernd Brügge | [PDF](summer/docs/bsc_kraus_topalova_an_investigation_of_ai_methods_for_the_facilitation_of_injury_diagnosis_and_treatments.pdf) | [PDF](summer/talks/bsc_kraus_topalova_an_investigation_of_ai_methods_for_the_facilitation_of_injury_diagnosis_and_treatments.pdf) |
 | Francisco Kusch Domínguez | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing | BA | Nathaniel Tornow, Oğuzcan Kırmemiş | [PDF](summer/docs/bsc_kusch_comptn_a_compiler_infrastructure_for_high_performance_tensor_network_computing.pdf) | [PDF](summer/talks/bsc_kusch_comptn_a_compiler_infrastructure_for_high_performance_tensor_network_computing.pdf) |
 | Anders Choi | PulseMLIR: An MLIR Dialect for Pulse Representations in Superconducting Quantum Computers | GR | Francisco Romão | [PDF](summer/docs/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) | [PDF](summer/talks/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) |
-
+| Paul Zhang | Network Function Virtualization with UniBPF | BA | Masanori Misono, Ilya Meignan--Masson | [PDF](summer/docs/bsc_paul_zhang_network_function_virtualization_with_unibpf.pdf) | [PDF](summer/talks/bsc_paul_zhang_network_function_virtualization_with_unibpf.pdf) |
 
 ## Winter semester
 
