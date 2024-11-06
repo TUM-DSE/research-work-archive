@@ -13,10 +13,10 @@
 | Francisco Kusch Domínguez | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing | BA | Nathaniel Tornow, Oğuzcan Kırmemiş | [PDF](summer/docs/bsc_kusch_comptn_a_compiler_infrastructure_for_high_performance_tensor_network_computing.pdf) | [PDF](summer/talks/bsc_kusch_comptn_a_compiler_infrastructure_for_high_performance_tensor_network_computing.pdf) |
 | Anders Choi | PulseMLIR: An MLIR Dialect for Pulse Representations in Superconducting Quantum Computers | GR | Francisco Romão | [PDF](summer/docs/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) | [PDF](summer/talks/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) |
 | Paul Zhang | Network Function Virtualization with UniBPF | BA | Masanori Misono, Ilya Meignan--Masson | [PDF](summer/docs/bsc_paul_zhang_network_function_virtualization_with_unibpf.pdf) | [PDF](summer/talks/bsc_paul_zhang_network_function_virtualization_with_unibpf.pdf) |
-| Liangrun Da | Design and Verification of Byzantine Fault Tolerant CRDTs | MA | Martin Kleppmann | [PDF](summer/docs/msc_liangrun_da_design_and_verification_of_byzantine_fault_tolerant_crdts.pdf) | [PDF](summer/talks/msc_liangrun_da_design_and_verification_of_byzantine_fault_tolerant_crdts.pdf) |
 
 ## Winter semester
 
-| Student | Title | Type | Advisors | Report/Thesis | Presentation |
-|---------|-------|------|----------|---------------|--------------|
+| Student     | Title                                                     | Type | Advisors         | Report/Thesis                                                | Presentation                                                 |
+| ----------- | --------------------------------------------------------- | ---- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Liangrun Da | Design and Verification of Byzantine Fault Tolerant CRDTs | MA   | Martin Kleppmann | [PDF](winter/docs/msc_liangrun_da_design_and_verification_of_byzantine_fault_tolerant_crdts.pdf) | [PDF](winter/talks/msc_liangrun_da_design_and_verification_of_byzantine_fault_tolerant_crdts.pdf) |
 
