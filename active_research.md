@@ -22,4 +22,5 @@
 | Lan Ouyang         | Securing Databases Data Structures: Exploring CHERI for Memory Safety and Bug Detection               | MA   | Martin Fink, Ilya Meignan--Masson      | 07.08.2024 | 07.02.2025 |
 | Michael Hackl      | CloakVM: A Library OS for Confidential Nested Virtualization                                          | MA   | Patrick Sabanic, Dimitrios Stavrakakis | 01.10.2024 | 01.04.2025 |
 | Konstantin Garbers | Design and Implementation of a Binary Translator from AArch64 to a Custom Intermediate Representation | BA   | Martin Fink                            | 29.10.2024 | 28.02.2025 |
+| Dominik Kreutzer   | vDPDK: A Para-Virtualized DPDK Device Model for vMux                                                  | MA   | Peter Okelmann, Masanori Misono        | 18.11.2024 | 19.05.2025 |
 
