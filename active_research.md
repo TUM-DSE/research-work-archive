@@ -21,6 +21,7 @@
 | Milen Vitanov      | Serverless Data-Processing in Unikernels using eBPF                                                   | MA   | Masanori Misono, Ilya Meignan--Masson  | 01.06.2024 | 01.12.2024 |
 | Marcin Praski      | Real-time & parallel task scheduling for Quantum Computing                                            | MA   | Emmanouil Giortamis                    | 15.06.2024 | 15.12.2024 |
 | Lan Ouyang         | Securing Databases Data Structures: Exploring CHERI for Memory Safety and Bug Detection               | MA   | Martin Fink, Ilya Meignan--Masson      | 07.08.2024 | 07.02.2025 |
+| Martin Lindbuechl  | Towards efficient memory and storage subsystems for unikernel based cloud databases                   | BA   | Ilya Meignan--Masson                   | 18.11.2024 | 18.03.2025 |
 | Michael Hackl      | CloakVM: A Library OS for Confidential Nested Virtualization                                          | MA   | Patrick Sabanic, Dimitrios Stavrakakis | 01.10.2024 | 01.04.2025 |
 | Konstantin Garbers | Design and Implementation of a Binary Translator from AArch64 to a Custom Intermediate Representation | BA   | Martin Fink                            | 29.10.2024 | 28.02.2025 |
 | Dominik Kreutzer   | vDPDK: A Para-Virtualized DPDK Device Model for vMux                                                  | MA   | Peter Okelmann, Masanori Misono        | 18.11.2024 | 19.05.2025 |
