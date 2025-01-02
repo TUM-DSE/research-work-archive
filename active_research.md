@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 |-----------------------|------------------------------------------------------------------------------------------------------------|------|----------------------------------------|------------|------------|
-| Simon Dittrich        | Automated Simulation of Hierarchical Cache Coherence for CXL                                               | MA   | Anatole Lefort                         | 15.03.2024 | 15.09.2024 |
 | Francisco Kusch       | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing                            | BA   | Nathaniel Tornow, Oğuzcan Kırmemiş     | 28.05.2024 | 28.09.2024 |
 | Alexander Schindler   | Evaluating the performance impact of privilege levels of Confidential Virtual Machines                     | MA   | Patrick Sabanic                        | 15.11.2023 | 15.11.2024 |
 | Marcin Praski         | Real-time & parallel task scheduling for Quantum Computing                                                 | MA   | Emmanouil Giortamis                    | 15.06.2024 | 15.12.2024 |
