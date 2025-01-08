@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 |-----------------------|------------------------------------------------------------------------------------------------------------|------|----------------------------------------|------------|------------|
-| Francisco Kusch       | CompTN: A Compiler Infrastructure for High-Performance Tensor Network Computing                            | BA   | Nathaniel Tornow, Oğuzcan Kırmemiş     | 28.05.2024 | 28.09.2024 |
 | Alexander Schindler   | Evaluating the performance impact of privilege levels of Confidential Virtual Machines                     | MA   | Patrick Sabanic                        | 15.11.2023 | 15.11.2024 |
 | Marcin Praski         | Real-time & parallel task scheduling for Quantum Computing                                                 | MA   | Emmanouil Giortamis                    | 15.06.2024 | 15.12.2024 |
 | Lan Ouyang            | Securing Databases Data Structures: Exploring CHERI for Memory Safety and Bug Detection                    | MA   | Martin Fink, Ilya Meignan--Masson      | 07.08.2024 | 07.02.2025 |
