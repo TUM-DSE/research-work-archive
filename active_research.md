@@ -23,3 +23,4 @@
 | Berkay Eren Ürün      | Trustworthy On-Device LLM Inference                                                                        | MA   | Teofil Bodea                           | 15.11.2024 | 15.05.2025 |
 | Dominik Kreutzer      | vDPDK: A Para-Virtualized DPDK Device Model for vMux                                                       | MA   | Peter Okelmann, Masanori Misono        | 18.11.2024 | 19.05.2025 |
 | Wonkeun Choi (Anders) | AirLift: Automatically Generating a Binary Lifter from the Arm Machine-Readable Architecture Specification | MA   | Martin Fink                            | 29.11.2024 | 30.05.2025 |
+| Christian Karidas     | Tamperproof Logging System for GDPR-compliant Key-Value Stores                                             | BA   | Dimitrios Stavrakakis                  | 15.01.2025 | 16.06.2025 |
