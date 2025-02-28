@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
-| Lan Ouyang            | Securing Databases Data Structures: Exploring CHERI for Memory Safety and Bug Detection                    | MA   | Martin Fink, Ilya Meignan--Masson      | 07.08.2024 | 07.02.2025 |
 | Konstantin Garbers    | Design and Implementation of a Binary Translator from AArch64 to a Custom Intermediate Representation      | BA   | Martin Fink                            | 29.10.2024 | 28.02.2025 |
 | Martin Lindbuechl     | Towards efficient memory and storage subsystems for unikernel based cloud databases                        | BA   | Ilya Meignan--Masson                   | 18.11.2024 | 18.03.2025 |
 | Yude Jiang            | Microarchitectural Analysis of CHERI on the Morello Platform                                               | BA   | Martin Fink, Masanori Misono           | 28.11.2024 | 28.03.2025 |
