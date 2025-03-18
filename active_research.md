@@ -14,7 +14,6 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Konstantin Garbers    | Design and Implementation of a Binary Translator from AArch64 to a Custom Intermediate Representation      | BA   | Martin Fink                            | 29.10.2024 | 28.02.2025 |
-| Martin Lindbuechl     | Towards efficient memory and storage subsystems for unikernel based cloud databases                        | BA   | Ilya Meignan--Masson                   | 18.11.2024 | 18.03.2025 |
 | Yude Jiang            | Microarchitectural Analysis of CHERI on the Morello Platform                                               | BA   | Martin Fink, Masanori Misono           | 28.11.2024 | 28.03.2025 |
 | Raphael Dichler       | Evaluating MTE for Hardware-Assisted Memory Safety in Databases                                            | BA   | Martin Fink, Ilya Meignan--Masson      | 28.11.2024 | 28.03.2025 |
 | Michael Hackl         | CloakVM: A Library OS for Confidential Nested Virtualization                                               | MA   | Patrick Sabanic, Dimitrios Stavrakakis | 01.10.2024 | 01.04.2025 |
