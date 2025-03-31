@@ -53,14 +53,12 @@ it into 2022 (even if the work was submitted in the first three months of
 Please follow this format for your file names:
 
 ```
-<type>_<lastname>_<title>.pdf
+<type>_<lastname>.pdf
 ```
 
 where
 
 * `<type>` is either `bsc`, `msc`, `idp` or `gr`
-* `<lastname>` is your last name
-* `<title>` is the title in lowercase letters and words separated by
-  underscores
+* `<lastname>` is your last name. If there are conflicts, also add your first name.
 
 And you are done, **thank you**!
