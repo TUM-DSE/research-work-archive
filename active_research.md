@@ -21,3 +21,4 @@
 | Wonkeun Choi (Anders) | AirLift: Automatically Generating a Binary Lifter from the Arm Machine-Readable Architecture Specification | MA   | Martin Fink                            | 29.11.2024 | 30.05.2025 |
 | Christian Karidas     | Tamperproof Logging System for GDPR-compliant Key-Value Stores                                             | BA   | Dimitrios Stavrakakis                  | 15.01.2025 | 16.06.2025 |
 | Phillip Assmann       | Evaluating Complex Branch Predictors                                                                       | BA   | David Schall                           | 15.03.2025 | 15.07.2025 |
+| Sandro-Alessio Gierens| Design and Implementation of Secure Hypervisor for Confidential Virtual Machines                           | MA   | Masanori Misono                        | 03.03.2025 | 03.12.2025 |
