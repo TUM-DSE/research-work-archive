@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
-| Yude Jiang            | Microarchitectural Analysis of CHERI on the Morello Platform                                               | BA   | Martin Fink, Masanori Misono           | 28.11.2024 | 28.03.2025 |
 | Raphael Dichler       | Evaluating MTE for Hardware-Assisted Memory Safety in Databases                                            | BA   | Martin Fink, Ilya Meignan--Masson      | 28.11.2024 | 28.03.2025 |
 | Michael Hackl         | CloakVM: A Library OS for Confidential Nested Virtualization                                               | MA   | Patrick Sabanic, Dimitrios Stavrakakis | 01.10.2024 | 01.04.2025 |
 | Berkay Eren Ürün      | Trustworthy On-Device LLM Inference                                                                        | MA   | Teofil Bodea                           | 15.11.2024 | 15.05.2025 |
