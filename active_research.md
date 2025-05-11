@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
-| Raphael Dichler       | Evaluating MTE for Hardware-Assisted Memory Safety in Databases                                            | BA   | Martin Fink, Ilya Meignan--Masson      | 28.11.2024 | 28.03.2025 |
 | Berkay Eren Ürün      | Trustworthy On-Device LLM Inference                                                                        | MA   | Teofil Bodea                           | 15.11.2024 | 15.05.2025 |
 | Dominik Kreutzer      | vDPDK: A Para-Virtualized DPDK Device Model for vMux                                                       | MA   | Peter Okelmann, Masanori Misono        | 18.11.2024 | 19.05.2025 |
 | Wonkeun Choi (Anders) | AirLift: Automatically Generating a Binary Lifter from the Arm Machine-Readable Architecture Specification | MA   | Martin Fink                            | 29.11.2024 | 30.05.2025 |
