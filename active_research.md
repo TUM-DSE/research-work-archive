@@ -21,3 +21,4 @@
 | Sandro-Alessio Gierens| Design and Implementation of Secure Hypervisor for Confidential Virtual Machines                           | MA   | Masanori Misono                        | 03.03.2025 | 03.12.2025 |
 | Shrief Hussien        | GDPR Metadata Indexing Optimization                                                                        | MA   | Dimitrios Stavrakakis                  | 31.03.2025 | 30.09.2025 |
 | Christian Krinitsin   | Analysis and Verification of Semantic Mistranslation Errors in Emulators                                   | BA   | Theofilos Augoustis, Sebastian Reimers | 12.05.2025 | 12.09.2025 |
+| Tristan Schwieren     | Automated Formal Verification of SHA-3                                                                     | MA   | Julian Pritzi, Dennis Sprokholt | 15.05.2025 | 17.11.2025 |
