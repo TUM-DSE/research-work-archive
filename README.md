@@ -9,6 +9,7 @@ website](https://dse.in.tum.de/thesis/).
 
 Archives:
 - [Active research work](./active_research.md)
+- [2025](./archive/2025/README.md)
 - [2024](./archive/2024/README.md)
 - [2023](./archive/2023/README.md)
 - [2022](./archive/2022/README.md)
