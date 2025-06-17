@@ -1,10 +1,11 @@
-# Research work in 2024
+# Research work in 2025
 
 ## Summer semester
 
 | Student                           | Title                                                                                     | Type | Advisors                                 | Report/Thesis                                                                                                                    | Presentation                                                                                                                      |
 | --------------------------------- | ----------------------------------------------------------------------------------------- | ---- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Berkay Eren Ürün                  | LLM-OS: Orchestrating Edge Inference with Priority Scheduling and Adaptive KV Cache Management | MA | Teofil Bodea | [PDF](summer/docs/msc_berkay_eren_ueruen_LLM_OS_orchestrating_edge_inference_with_priority_scheduling_and_adaptive_KV_Cache_management.pdf) | [PDF](summer/talks/msc_berkay_eren_ueruen_LLM_OS_orchestrating_edge_inference_with_priority_scheduling_and_adaptive_KV_Cache_management.pdf) |
+| Anders Choi                  | Airlift: A Binary Lifter Based on a Machine-Readable Architecture Specification | MA | Martin Fink | [PDF](summer/docs/msc_choi.pdf) | [PDF](summer/talks/msc_choi.pdf) |
 
 ## Winter semester
 
