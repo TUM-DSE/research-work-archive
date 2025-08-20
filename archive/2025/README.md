@@ -8,6 +8,7 @@
 | Anders Choi                  | Airlift: A Binary Lifter Based on a Machine-Readable Architecture Specification | MA | Martin Fink | [PDF](summer/docs/msc_choi.pdf) | [PDF](summer/talks/msc_choi.pdf) |
 | Dominik Kreutzer                  | vDPDK: A Para-Virtualized DPDK Device Model for vMux                                      | MA   | Peter Okelmann, Masanori Misono          | [PDF](summer/docs/msc_kreutzer_vdpdk.pdf)                                                                                        | [PDF](summer/talks/msc_kreutzer_vdpdk.pdf)                                                                                        |
 | Christian Karidas | Tamperproof Logging System for GDPR-compliant Key-Value Stores | BA | Dimitrios Stavrakakis | [PDF](summer/docs/bsc_karidas.pdf) | [PDF](summer/talks/bsc_karidas.pdf) |
+| Maximilian Jäcklein | Protecting H/W and S/W Interactions for Network-Attached Accelerators | BA | Harshavardhan Unnibhavi | [PDF](summer/docs/bsc_jaecklein.pdf) | [PDF](summer/talks/bsc_jaecklein.pdf) |
 
 ## Winter semester
 
