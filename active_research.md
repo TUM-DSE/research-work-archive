@@ -13,7 +13,6 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
-| Phillip Assmann       | Evaluating Complex Branch Predictors                                                                       | BA   | David Schall                           | 15.03.2025 | 15.07.2025 |
 | Sandro-Alessio Gierens| Design and Implementation of Secure Hypervisor for Confidential Virtual Machines                           | MA   | Masanori Misono                        | 03.03.2025 | 03.12.2025 |
 | Shrief Hussien        | GDPR Metadata Indexing Optimization                                                                        | MA   | Dimitrios Stavrakakis                  | 31.03.2025 | 30.09.2025 |
 | Christian Krinitsin   | Analysis and Verification of Semantic Mistranslation Errors in Emulators                                   | BA   | Theofilos Augoustis, Sebastian Reimers | 12.05.2025 | 12.09.2025 |
