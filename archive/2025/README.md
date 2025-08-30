@@ -10,6 +10,7 @@
 | Christian Karidas | Tamperproof Logging System for GDPR-compliant Key-Value Stores | BA | Dimitrios Stavrakakis | [PDF](summer/docs/bsc_karidas.pdf) | [PDF](summer/talks/bsc_karidas.pdf) |
 | Maximilian Jäcklein | Protecting H/W and S/W Interactions for Network-Attached Accelerators | BA | Harshavardhan Unnibhavi | [PDF](summer/docs/bsc_jaecklein.pdf) | [PDF](summer/talks/bsc_jaecklein.pdf) |
 | Phillip Assmann | Mitigating Branch Predictor Latency with Hierarchical Design — an Analysis | BA | Dr. David Schall | [PDF](summer/docs/bsc_assmann.pdf) | [PDF](summer/talks/bsc_assmann.pdf) |
+| David Holzwarth | Exploring the Resolution of Delegations in Liquid Democracy with Fractional Delegation | BA | Prof. Dr. Bryan Ford | [PDF](summer/docs/bsc_holzwarth.pdf) | [PDF](summer/talks/bsc_holzwarth.pdf) |
 
 ## Winter semester
 
