@@ -12,11 +12,13 @@
 | Phillip Assmann              | Mitigating Branch Predictor Latency with Hierarchical Design — an Analysis                     | BA | Dr. David Schall                | [PDF](summer/docs/bsc_assmann.pdf)        | [PDF](summer/talks/bsc_assmann.pdf)        | |
 | Hristina Yordanova Grigorova | Online OS reconfiguration for Cloud DBMS                                                       | BA | Ilya Meignan--Masson            | [PDF](summer/docs/bsc_grigorova.pdf)      | [PDF](summer/talks/bsc_grigorova.pdf)      | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/bsc_grigorova) |
 | Jonas Ludwig Gerg            | Automatic Term Extraction based on GenAI                                                       | BA | Bernd Brügge                    | [PDF](summer/docs/bsc_gerg.pdf)           | [PDF](summer/talks/bsc_gerg.pdf)    
+| Steve Bambou Biangang        | Evaluation of Multiple Branch Prediction's Potential in the Context of Wide-Pipeline Architectures | BA | Dr. David Schall            | [PDF]() | [PDF]() ||
 
 ## Winter semester
 
 | Student                          | Title                                                                                                 | Type | Advisors                                                 | Report/Thesis                                                                                                                                                          | Presentation                                                                                                                                                            | Artifact
 | -------------------------------- | ----------------------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+
 
 
 
