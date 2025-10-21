@@ -16,6 +16,8 @@
 | Anton Ge                     | Page Fault Forwarding via User-Interrupts                                                      | BA   | Dr. David Schall, Ilya Meignan--Masson   | [PDF](summer/docs/bsc_ge.pdf)  | [PDF](summer/talks/bsc_ge.pdf)             | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/bsc_ge) |
 | David Holzwarth              | Exploring the Resolution of Delegations in Liquid Democracy with Fractional Delegation         | BA | Prof. Dr. Bryan Ford            | [PDF](summer/docs/bsc_holzwarth.pdf)      | [PDF](summer/talks/bsc_holzwarth.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/bsc_holzwarth) |
 | Christian Krinitsin          | Analysis and Validation of Semantic Mistranslation Errors in Emulators                         | BA   | Theofilos Augoustis, Sebastian Reimers   | [PDF](summer/docs/bsc_krinitsin.pdf)  | [PDF](summer/talks/bsc_krinitsin.pdf)             | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/bsc_krinitsin) |
+| Shrief Hussien          | GDPR Metadata Indexing Optimization                         | MA   | Dr. Dimitrios Stavrakakis   | [PDF](summer/docs/msc_hussien.pdf)  | [PDF](summer/talks/msc_hussien.pdf)             | |
+
 
 ## Winter semester
 
