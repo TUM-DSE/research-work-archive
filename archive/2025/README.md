@@ -18,7 +18,7 @@
 | Christian Krinitsin          | Analysis and Validation of Semantic Mistranslation Errors in Emulators                         | BA   | Theofilos Augoustis, Sebastian Reimers   | [PDF](summer/docs/bsc_krinitsin.pdf)  | [PDF](summer/talks/bsc_krinitsin.pdf)             | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/bsc_krinitsin) |
 | Shrief Hussien               | GDPR Metadata Indexing Optimization                         | MA   | Dr. Dimitrios Stavrakakis   | [PDF](summer/docs/msc_hussien.pdf)  | [PDF](summer/talks/msc_hussien.pdf)             | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/msc_hussien) |
 | Daniel Vonk                  | A Formal Verification Model and Language for the Correctness of Programs on Neutral-Atom Quantum Computers | MA | Francisco Romão | [PDF](summer/docs/msc_daniel.pdf) | | |
-
+| Kevin-Florian Su               | Symptex: AI-Driven Simulated Patient History-Taking for Medical Training | MA | Dr. Nadine von Frankenberg und Ludwigsdorff | [PDF](summer/docs/msc_su.pdf)  | [PDF](summer/talks/msc_su.pdf)             | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/summer/msc_su) |
 
 ## Winter semester
 
