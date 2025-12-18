@@ -13,6 +13,7 @@
 
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
+| Robert Barinov        | Spec-Driven Binary Translator                                                                              | BA   | Anders Choi, Martin Fink               | 04.11.2025 | 04.03.2026 |
 | Christian Krinitsin   | Analysis and Verification of Semantic Mistranslation Errors in Emulators                                   | BA   | Theofilos Augoustis, Sebastian Reimers | 12.05.2025 | 12.09.2025 |
 | Sandro-Alessio Gierens| Design and Implementation of Secure Hypervisor for Confidential Virtual Machines                           | MA   | Masanori Misono                        | 03.03.2025 | 03.12.2025 |
 | Mert Saraç            | Cross-Platform Implementation of a Mobile Coffee Tracking System                                           | MA   | Martin Fink                     | 15.07.2025 | 15.01.2026 |
