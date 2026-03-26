@@ -30,4 +30,5 @@
 | Christian Krinitsin              | Fine-grained Evaluation and Validation of Emulator Errors | GR   | Theofilos Augoustis, Sebastian Reimers      | [PDF](summer/docs/gr_krinitsin.pdf)   |  | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/winter/gr_krinitsin) |
 | Mert Saraç                       | A ROI-Driven Framework for Prioritizing Engineering Practices in Cross-Platform Mobile Migration      | MA   | Martin Fink | | |
 | Neel Henry Mandal              | Recycling Executed Branch Outcomes to Improve Branch Prediction | BA   | Dr. David Schall      | [PDF](winter/docs/bsc_mandal.pdf)   | [PDF](winter/talks/bsc_mandal.pdf) | [Link](https://github.com/dhschall/gem5-fdp/tree/branch-recycling-cache) |
+| Robert Barinov | Specification-Driven Binary Translator | BA | Martin Fink, Anders Choi | [PDF](winter/docs/bsc_barinov.pdf) | [PDF](winter/talks/bsc_barinov.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2025/winter/bsc_barinov)|
 

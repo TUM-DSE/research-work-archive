@@ -14,6 +14,5 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Peter Wegmann         | Mapping QEC Codes to Distributed Quantum Architectures                                                     | MA   | Aleksandra Świerkowska, Manos Giortamis | 07.08.2025 | 09.02.2026 |
-| Robert Barinov        | Spec-Driven Binary Translator                                                                              | BA   | Anders Choi, Martin Fink               | 04.11.2025 | 04.03.2026 |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
 
