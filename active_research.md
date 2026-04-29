@@ -14,4 +14,5 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
+| Jakob Lison             | Criticylity-based Value Prediction                                                     | BA   | Dr. David Schall | 16.04.2026 | 17.08.2026 |
 
