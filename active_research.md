@@ -14,5 +14,6 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
+| Jakob Lison             | Criticylity-based Value Prediction                                                                                         | BA   | Dr. David Schall       | 16.04.2026 | 17.08.2026 |
 | Martin Lindbüchl        | Cache-Aware Network Stack for Object Store Caching                                                                         | GR   | Ilya Meignan--Masson   | 20.04.2026 | 20.10.2026 | 
 | Maurice Scholtes        | OS-Integrated Buffer Management for High-Throughput Analytical Workloads                                                   | GR   | Ilya Meignan--Masson   | 20.04.2026 | 20.10.2026 |
