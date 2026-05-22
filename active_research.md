@@ -15,6 +15,8 @@
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
 | Jakob Lison             | Criticality-based Value Prediction                                                                                         | BA   | Dr. David Schall       | 16.04.2026 | 17.08.2026 |
+| Radu-Vladimir Raceala   | Deterministic Network Stack for Virtualized Protection and Control Systems                                                 | BA   | Dr. Anatole Lefort, Peter Okelmann | 06.05.2026 | 07.09.2026 |
+| Leon Simoniants         | Scheduling for Deterministic Virtualization for vPAC Workloads on COTS Hardware                                            | BA   | Dr. Anatole Lefort, Peter Okelmann | 20.05.2026 | 21.09.2026 |
 | Samuel Khon             | Workload-Aware Cache Replacement for Cloud-Native Analytical Query Engines                                                 | BA   | Ilya Meignan--Masson   | 20.05.2026 | 21.09.2026 |
 | Martin Lindbüchl        | Cache-Aware Network Stack for Object Store Caching                                                                         | GR   | Ilya Meignan--Masson   | 20.04.2026 | 20.10.2026 | 
 | Maurice Scholtes        | OS-Integrated Buffer Management for High-Throughput Analytical Workloads                                                   | GR   | Ilya Meignan--Masson   | 20.04.2026 | 20.10.2026 |
