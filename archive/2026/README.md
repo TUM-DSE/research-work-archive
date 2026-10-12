@@ -8,6 +8,6 @@
 | Monder Rammouz | Extending the Last-Level Cache Side-Channel Attack: A Security Analysis of Enclaves in the Modern Public Cloud | GR | Quoc-Do Le | [PDF](summer/docs/gr_rammouz.pdf) | [PDF](summer/talks/gr_rammouz.pdf) | [Link](https://codeberg.org/monder/LLCEnclave) |
 | Radu-Vladimir Raceala | Design and Performance Analysis of a Deterministic Network Stack for Virtualised Protection and Control Systems | BA | Dr. Anatole Lefort, Peter Okelmann | [PDF](summer/docs/bsc_raceala.pdf) | [PDF](summer/talks/bsc_raceala.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_raceala) |
 | Junguo Xu | Formalization of the TCG MARS Specification in Rocq | BA | Julian Pritzi | [PDF](summer/docs/bsc_xu.pdf) | [PDF](summer/talks/bsc_xu.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_xu) |
-| Jakob Lison             | Criticality-based Value Prediction | BA   | Dr. David Schall       |[PDF](summer/docs/bsc_lison.pdf)|[PDF](summer/talks/bsc_lison.pdf)|[Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_lison)|
+| Jakob Lison | Towards Criticality-based Value Prediction | BA | Dr. David Schall |[PDF](summer/docs/bsc_lison.pdf)|[PDF](summer/talks/bsc_lison.pdf)|[Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_lison)|
 
 ## Winter semester
