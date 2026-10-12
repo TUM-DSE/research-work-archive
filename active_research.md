@@ -14,7 +14,6 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
-| Jakob Lison             | Criticality-based Value Prediction                                                                                         | BA   | Dr. David Schall       | 16.04.2026 | 17.08.2026 |
 | Leon Simoniants         | Scheduling for Deterministic Virtualization for vPAC Workloads on COTS Hardware                                            | BA   | Dr. Anatole Lefort, Peter Okelmann | 20.05.2026 | 21.09.2026 |
 | Samuel Khon             | Workload-Aware Cache Replacement for Cloud-Native Analytical Query Engines                                                 | BA   | Ilya Meignan--Masson   | 20.05.2026 | 21.09.2026 |
 | Deniz Mersinlioğlu      | Generating Safety Proofs for eBPF in LLVM                                                                                  | BA   | Martin Fink            | 19.05.2026 | 21.09.2026 |
