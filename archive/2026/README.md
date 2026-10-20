@@ -9,5 +9,6 @@
 | Radu-Vladimir Raceala | Design and Performance Analysis of a Deterministic Network Stack for Virtualised Protection and Control Systems | BA | Dr. Anatole Lefort, Peter Okelmann | [PDF](summer/docs/bsc_raceala.pdf) | [PDF](summer/talks/bsc_raceala.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_raceala) |
 | Junguo Xu | Formalization of the TCG MARS Specification in Rocq | BA | Julian Pritzi | [PDF](summer/docs/bsc_xu.pdf) | [PDF](summer/talks/bsc_xu.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_xu) |
 | Jakob Lison | Towards Criticality-based Value Prediction | BA | Dr. David Schall |[PDF](summer/docs/bsc_lison.pdf)|[PDF](summer/talks/bsc_lison.pdf)|[Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_lison)|
+| Martin Lindbüchl | mininet: A Shared-Nothing HTTPS Stack for Cloud-Native Analytical Engines | GR | Ilya Meignan--Masson | [PDF](summer/docs/gr_lindbuechl.pdf) | [PDF](summer/talks/gr_lindbuechl.pdf) | [Link](https://github.com/TUM-DSE/miniosv/tree/srg_mainline) |
 
 ## Winter semester
