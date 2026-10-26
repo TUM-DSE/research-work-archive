@@ -14,7 +14,6 @@
 | Student               | Title                                                                                                      | Type | Advisors                               | Start date | End date   |
 | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------- | ---------- | ---------- |
 | Jannik Pflieger         | Optimizing Scheduling for Lattice Surgery with Magic State Cultivation                                                     | MA   | Aleksandra Świerkowska | 15.12.2025 | 15.06.2026 |
-| Leon Simoniants         | Scheduling for Deterministic Virtualization for vPAC Workloads on COTS Hardware                                            | BA   | Dr. Anatole Lefort, Peter Okelmann | 20.05.2026 | 21.09.2026 |
 | Daniel Kunz             | Design and Implementation of a Rust-based Memory Allocator for the CHERIoT Embedded Operating System                       | BA   | Reto Achermann         | 08.06.2026 | 07.10.2026 |
 | Ivan Logvynenko         | Flat memory for CXL GPUs                                                                                                   | BA   | Dr. Anatole Lefort     | 01.06.2026 | 01.10.2026 |
 | Alexander Bartelt       | Design and Implementation of Memory Consistency Model aware MLIR Dialects in a Compiler for Concurrent Programs            | BA   | Sebastian Reimers      | 01.07.2026 | 01.11.2026 |
