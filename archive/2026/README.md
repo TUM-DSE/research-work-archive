@@ -10,6 +10,7 @@
 | Junguo Xu | Formalization of the TCG MARS Specification in Rocq | BA | Julian Pritzi | [PDF](summer/docs/bsc_xu.pdf) | [PDF](summer/talks/bsc_xu.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_xu) |
 | Jakob Lison | Towards Criticality-based Value Prediction | BA | Dr. David Schall |[PDF](summer/docs/bsc_lison.pdf)|[PDF](summer/talks/bsc_lison.pdf)|[Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_lison)|
 | Martin Lindbüchl | mininet: A Shared-Nothing HTTPS Stack for Cloud-Native Analytical Engines | GR | Ilya Meignan--Masson | [PDF](summer/docs/gr_lindbuechl.pdf) | [PDF](summer/talks/gr_lindbuechl.pdf) | [Link](https://github.com/TUM-DSE/miniosv/tree/srg_mainline) |
+| Anton Ge | Userspace Page Faults for Hardware-Accelerated Data Caching | GR | Ilya Meignan--Masson | [PDF](summer/docs/gr_ge.pdf) | [PDF](summer/talks/gr_ge.pdf) | [Link](https://github.com/TUM-DSE/ricochet) |
 
 ## Winter semester
 
