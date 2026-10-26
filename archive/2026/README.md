@@ -11,6 +11,7 @@
 | Jakob Lison | Towards Criticality-based Value Prediction | BA | Dr. David Schall |[PDF](summer/docs/bsc_lison.pdf)|[PDF](summer/talks/bsc_lison.pdf)|[Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_lison)|
 | Martin Lindbüchl | mininet: A Shared-Nothing HTTPS Stack for Cloud-Native Analytical Engines | GR | Ilya Meignan--Masson | [PDF](summer/docs/gr_lindbuechl.pdf) | [PDF](summer/talks/gr_lindbuechl.pdf) | [Link](https://github.com/TUM-DSE/miniosv/tree/srg_mainline) |
 | Simon Weckler | IronLink: GPUDirect-enabled Confidential Virtual Machines via Trusted SmartNICs | BA | Teofil Bodea | [PDF](summer/docs/bsc_weckler.pdf) | [PDF](summer/talks/bsc_weckler.pdf) | [Link](https://github.com/TUM-DSE/gpu-network-io) |
+| Anton Ge | Userspace Page Faults for Hardware-Accelerated Data Caching | GR | Ilya Meignan--Masson | [PDF](summer/docs/gr_ge.pdf) | [PDF](summer/talks/gr_ge.pdf) | [Link](https://github.com/TUM-DSE/ricochet) |
 
 ## Winter semester
 
