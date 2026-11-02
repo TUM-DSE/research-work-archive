@@ -14,6 +14,7 @@
 | Simon Weckler | IronLink: GPUDirect-enabled Confidential Virtual Machines via Trusted SmartNICs | BA | Teofil Bodea | [PDF](summer/docs/bsc_weckler.pdf) | [PDF](summer/talks/bsc_weckler.pdf) | [Link](https://github.com/TUM-DSE/gpu-network-io) |
 | Deniz Mersinlioğlu             | Generating Loop Termination Proofs for eBPF in LLVM | BA | Martin Fink                    | [PDF](summer/docs/bsc_mersinlioğlu.pdf) | [PDF](summer/talks/bsc_mersinlioğlu.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_mersinlioglu)|
 | Ivan Logvynenko | Flat memory mode for CXL GPUs | BA | Dr. Anatole Lefort                    | [PDF](summer/docs/bsc_logvynenko.pdf) | [PDF](summer/talks/bsc_logvynenko.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_logvynenko)|
+| Samuel Khuon | File-Layout-Aware Caching for Cloud-Native Analytical Query Engines | BA | Ilya Meignan--Masson | [PDF](summer/docs/bsc_khuon.pdf) | [PDF](summer/talks/bsc_khuon.pdf) | [Link](https://github.com/TUM-DSE/research-work-archive-artifacts/tree/main/archive/2026/summer/bsc_khuon)|
 
 ## Winter semester
 
